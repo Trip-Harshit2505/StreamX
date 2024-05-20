@@ -9,12 +9,12 @@ cd backend
 
 Then once you've entered the directory run the command to host the local server
 
-``Bash
+```
 
 npm install 
 
 npm run dev
-``
+```
 
 ### For frontend 
 Enter the frontend directory using the command 
@@ -23,8 +23,8 @@ cd frontend
 
 Then once you've entered the directory run the command to host the local react server
 
-``Bash
+```
 npm install  
 
 npm run dev
-``
+```
